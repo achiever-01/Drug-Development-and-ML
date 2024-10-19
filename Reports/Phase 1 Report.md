@@ -1,6 +1,6 @@
 **DOCKING AND PIPELINE IMPLEMENTATION**
 
-**Authors (@slack):** Rukayat Jimoh (@Justjpearl), Ameenat Oloko (@Ameenat), Popoola Opeyemi Emmanuel (@Emmanuel), Adesina Damilola Victoria (@Victoria63) and Deborah Abolarinwa (@Achiever01).
+**Authors (@slack):** **Deborah Abolarinwa (@Achiever01)**, Ameenat Oloko (@Ameenat), Popoola Opeyemi Emmanuel (@Emmanuel), Rukayat Jimoh (@Justjpearl), and Adesina Damilola Victoria (@Victoria63).
 
 **Phase 1: Docking Implementation**
 
