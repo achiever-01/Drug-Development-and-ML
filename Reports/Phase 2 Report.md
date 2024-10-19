@@ -1,4 +1,4 @@
-**ML MODEL FOR PREDICTING NEW COMPOUNDS THAT ARE BIOACTIVE AGAINST A THERAPEUTIC TARGET**
+**MACHINE LEARNING MODEL FOR PREDICTING NEW COMPOUNDS THAT ARE BIOACTIVE AGAINST A THERAPEUTIC TARGET**
 
 **Authors (@slack):** Ameenat Oloko (@Ameenat), **Deborah Abolarinwa (@Achiever01)**, Popoola Opeyemi Emmanuel (@Emmanuel), Rukayat Jimoh (@Justjpearl), and Adesina Damilola Victoria (@Victoria63).
 
