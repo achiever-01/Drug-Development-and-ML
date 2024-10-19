@@ -1,4 +1,4 @@
-**DOCKING AND PIPELINE IMPLEMENTATION**
+**MOLECULAR DOCKING AND PIPELINE IMPLEMENTATION**
 
 **Authors (@slack):** **Deborah Abolarinwa (@Achiever01)**, Ameenat Oloko (@Ameenat), Popoola Opeyemi Emmanuel (@Emmanuel), Rukayat Jimoh (@Justjpearl), and Adesina Damilola Victoria (@Victoria63).
 
